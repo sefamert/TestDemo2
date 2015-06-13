@@ -14,9 +14,11 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         basetest.cpp \
-    sefa.cpp
+    sefa.cpp \
+    asda.cpp
 
 HEADERS  += basetest.h \
-    sefa.h
+    sefa.h \
+    asda.h
 
 FORMS    += basetest.ui
